@@ -1,0 +1,7 @@
+
+Section "InputClass"
+	Identifier	"calibration"
+	MatchProduct	"ADS7846 Touchscreen"
+	Option		"CalibrationMatrix"	"-0.005013 -1.086056 1.050578 1.101020 0.013316 -0.046908 0.000000 0.000000 1.000000 "
+EndSection
+
